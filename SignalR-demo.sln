@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{754EB9BB-3F20-431F-84AD-6D9C183963E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server\Server.csproj", "{754EB9BB-3F20-431F-84AD-6D9C183963E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvironmentStatusViewer", "..\Client\EnvironmentStatusViewer\EnvironmentStatusViewer.csproj", "{C230C27A-F7B5-42C1-B121-ED80B92A91E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvironmentStatusViewer", "Client\EnvironmentStatusViewer\EnvironmentStatusViewer.csproj", "{C230C27A-F7B5-42C1-B121-ED80B92A91E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
